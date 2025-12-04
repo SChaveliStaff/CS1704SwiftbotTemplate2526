@@ -7,7 +7,7 @@ Working toward your coding assignment includes completing the weekly lab tasks a
 -	Formative Task 2
 -	Any work for Assignment 3 – CS1814 Software Implementation
 
-##What you need to do:
+## What you need to do:
 -	You will have only one repository for CS1704.
 -	Create **one Maven-enabled Java project** for the entire module. Give the project a suitable name that reflects its purpose.
 -	For each new task, create **a separate class file** rather than creating additional projects. Choose an appropriate class name that reflects its purpose and makes its role in the program clear. For example, you can name each class according to its purpose, (e.g., _DoesMySwiftBotWork, CalibrateMySwiftBot, SimonSwift, TestRandomColourGenerator_).
@@ -16,7 +16,7 @@ Working toward your coding assignment includes completing the weekly lab tasks a
 
 Regular commits also help you maintain version control, avoid data loss, and meet the activity expectation outlined in the brief.
 
-##IMPORTANT
+## IMPORTANT
 -	Work that is not pushed to this repository will not be considered when evaluating LO5.
 -	Therefore, it is your responsibility to ensure your repository is up to date.
 The purpose of this GitHub repository is only to evaluate your planning and progress towards Assignment 3 (LO5). The code (i.e., your .java files) you wish to be considered towards the CS1814 assignment must be uploaded to WiseFlow on or before the submission deadline (refer to the assignment brief for more information). In the event that you have not uploaded your code to WiseFlow, or the uploaded code is faulty, any code stored in this repository will **not** be considered a valid submission. You will **not be permitted** to access this repository during the viva.
